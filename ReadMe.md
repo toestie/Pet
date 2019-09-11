@@ -16,7 +16,7 @@ We retrieved our data from data.world. Austin Animal Center has several large cs
 
 ### Are particular breeds being adopted? 
 ![BreedsIntake](images/breedin.png)
-![BreedsOutcome](images/breedout.png)
+![BreedsOutcome](images/adoptout.png)
 
 An interesting observation from the graphs is that the top six breed types are the same set of breed types for animal intakes and animal adoptions, suggesting that availability correlates with adoption rates. Not too surprisingly, the most popular adoption types are dog breeds.
 
