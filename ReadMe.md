@@ -1,4 +1,4 @@
-# Pet Project (2019)
+# Pet Project
 ## Team Members
 Hazel Despain, Nathan Wong, Michael Ramirez, Paul Vonder Haar
 
